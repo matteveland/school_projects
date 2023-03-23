@@ -1,0 +1,93 @@
+html {
+  margin: auto auto;
+}
+
+body{
+
+  font-family:Arial,Helvetica,sans-serif;
+  margin: auto;
+  width: 80%;
+  margin: auto;
+  font-size: 16px;
+
+
+}
+
+header{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.main_menu{
+  margin: auto auto;
+  display: flex;
+  background:url(imgs/header_bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 250px;
+  width: auto;
+}
+.header_p{
+  text-align: center;
+  padding: 0 0 0 0;
+  font-size: 8vw;
+  font-style: italic;
+  -webkit-text-stroke:1px black;
+  -webkit-text-fill-color: white;
+  position: relative;
+  margin: auto auto;
+
+}
+
+.nav_section ul{
+  /*list-style-type: line;*/
+  padding: 10px 0;
+  background-color: white;
+
+}
+.nav_section li{
+  display: inline;
+}
+
+.nav_section a{
+  color: blue;
+  padding: 10px 20px;
+}
+
+.nav_section {
+  text-align: center;
+  display: block;
+  font-size: 18px;
+}
+
+.nav_footer{
+footer { font-size: 0.75em; text-align: center; clear: both; padding-top: 50px; margin: auto; color: #ccc; }
+}
+.item_link{
+  text-align: left;
+  display: block;
+  padding: -10px;
+  font-size: 16px;
+}
+.references a{
+    color: blue;
+    display: block;
+}
+
+a.references:hover{
+  color: dodgerblue;
+}
+a.references:visited, {
+  color: red;
+}
+a.item_link:hover{
+  color: dodgerblue;
+}
+a.nav_link:hover{
+  background-color: WhiteSmoke;
+  color: dodgerblue;
+}
+a.nav_link:visited, a.item_link:visited{
+  color: red;
+}
