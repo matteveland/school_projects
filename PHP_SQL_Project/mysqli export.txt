@@ -46,7 +46,7 @@ INSERT INTO `finalProject` (`id`, `name`, `birthdate`, `age`, `department`) VALU
 (56, 'sfdg', '2021/10/12', 43, 'dsfgdf'),
 (57, 'dfsgdfsgdf', '2021/10/06', 3, 'dsafgadfgfd'),
 (58, 'sdfg', '2021/10/06', 4, 'sdfvdfg'),
-(59, 'Matthew Eveland', '2021/10/05', 23, 'Math');
+(59, 'First Last', '2021/10/05', 23, 'Math');
 
 --
 -- Indexes for dumped tables
